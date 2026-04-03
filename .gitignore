@@ -1,0 +1,57 @@
+# C++ 编译产物
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.lib
+*.a
+*.out
+*.app
+
+# 调试文件
+*.pdb
+*.idb
+*.ilk
+*.exp
+
+# Dev-C++ 项目文件
+*.layout
+*.dev~
+
+# 其他 IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 构建目录
+build/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# 编译命令生成
+Makefile
+*.make
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+
+# 测试文件
+*.log
+*.test
+coverage/
+
+# 系统文件
+.DS_Store
+Thumbs.db
