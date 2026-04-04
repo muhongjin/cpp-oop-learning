@@ -11,7 +11,7 @@
 
 ## 🛠 项目一：FileHandler - RAII 资源管理实践
 
-这是我进入 C++ 世界的第一个正式练习，重点解决 C++ 中最核心的资源管理问题。
+![alt text](image.png)
 
 ### 1. 核心概念
 * **RAII (Resource Acquisition Is Initialization)**：利用栈对象的生命周期自动化管理资源。
